@@ -40,3 +40,5 @@ We focus on clarity, authenticity, and speed, helping you move from search to de
 Learn More
 Ready to experience smarter search?
 👉 Visit https://listwr.com and see how Listwr transforms the way you connect, collaborate, and grow.
+
+Here is well explained article on medium: https://medium.com/@websolink/how-listwr-com-is-revolutionizing-b2b-discovery-and-business-listing-in-india-693c24688894
